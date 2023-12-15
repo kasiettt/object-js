@@ -1,0 +1,10 @@
+{
+    "name": "Vasya",
+    "age": 25,
+    "phone": ["0025678462"],
+    "hasCar": true,
+    "skill": {
+        "html": "good"
+    }
+
+}
